@@ -1,4 +1,4 @@
-### SEEK-THE-VOID-LIGHT
+### VoidLight Labs
 ![](icon.png)
 ### -----------------------------
 
