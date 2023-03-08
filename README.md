@@ -1,8 +1,6 @@
 ### VoidLight Labs
-![](icon.png)
-### -----------------------------
 
-*Hi, I'm Sk1pp3r (Felix).*
+*Hi, I'm Felix.*
 \
 I'm a high school student that likes programming stuff in his free time. I like embedded systems and I build hardware things from time to time...
 
